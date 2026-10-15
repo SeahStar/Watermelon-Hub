@@ -14,7 +14,7 @@
 ]]
 
 local CONFIG = {
-    API = "https://YOUR-WORKER.YOUR-NAME.workers.dev", -- no slash at the end
+    API = "https://watermelon-keys.seahstar3.workers.dev", -- no slash at the end
     DISCORD = "https://discord.gg/Cv4sgSk2N",
     FOLDER = "WatermelonHub",
 }
